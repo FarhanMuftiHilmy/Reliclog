@@ -1,0 +1,6 @@
+{
+  "name": "Reliclog",
+  "description": "RPG-style personal progression tracker turning real-world learning and habits into collectible AI-generated Relics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
